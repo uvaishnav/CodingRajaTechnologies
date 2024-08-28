@@ -1,0 +1,4 @@
+fastapi[all]
+sqlalchemy # The ORM for handling database operations.
+psycopg2-binary # The PostgreSQL database adapter.
+alembic # The database migration tool.
