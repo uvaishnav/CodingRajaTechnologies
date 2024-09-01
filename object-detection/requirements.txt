@@ -3,3 +3,4 @@ flask-cors # A Flask extension for handling Cross Origin Resource Sharing (CORS)
 
 gdown # Download a large file from Google Drive
 
+-e . # Install the object_detection package in editable mode
