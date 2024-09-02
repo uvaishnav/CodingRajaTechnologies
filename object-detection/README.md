@@ -11,3 +11,11 @@ Waste detection models can be deployed in various locations, such as public spac
 
 
 ## Annotation :
+
+
+## Training :
+
+1. Clone the YoloV5 repository:
+```bash
+git clone https://github.com/ultralytics/yolov5.git
+```
